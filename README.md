@@ -35,7 +35,9 @@ x Show Dynamic accuracy
 Wire-frames  
 ===========
 ![image](https://github.com/ShanKwanCho/690FinalProject/blob/master/Document%20Image/ARCH.png)
+
 ![image](https://github.com/ShanKwanCho/690FinalProject/blob/master/Document%20Image/Screen.png)
+
 ![image](https://github.com/ShanKwanCho/690FinalProject/blob/master/Document%20Image/Screen1.png)
 
 Demo
