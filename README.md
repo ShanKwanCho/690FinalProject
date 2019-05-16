@@ -30,3 +30,10 @@ Result accuracy > 90%
 Nice-to-have features:
 Show Names of object
 Show Dynamic accuracy
+
+Wire-frames  
+===========
+![image](https://github.com/ShanKwanCho/690FinalProject/blob/master/Document%20Image/ARCH.png)
+![image](https://github.com/ShanKwanCho/690FinalProject/blob/master/Document%20Image/Screen.png)
+![image](https://github.com/ShanKwanCho/690FinalProject/blob/master/Document%20Image/Screen1.png)
+
