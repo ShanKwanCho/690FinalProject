@@ -18,19 +18,19 @@ Neural Network. Show result of high accuracy (eg. 90% above)
 
 Must-have features:
 =========================================
-Keras
-Machine Learning
-Deep Learning Dataset
-Convolutional Neural Network 
-Core ML
-Full-screen view
-Result accuracy > 90%
+x Keras  
+x Machine Learning  
+x Deep Learning Dataset  
+x Convolutional Neural Network   
+x Core ML  
+x Full-screen view  
+x Result accuracy > 90%  
 
 
 Nice-to-have features:
 ===========================================
-Show Names of object
-Show Dynamic accuracy
+x Show Names of object  
+x Show Dynamic accuracy  
 
 Wire-frames  
 ===========
