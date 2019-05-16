@@ -34,11 +34,11 @@ x Show Dynamic accuracy
 
 Wire-frames  
 ===========
-![image](https://github.com/ShanKwanCho/690FinalProject/blob/master/Document%20Image/ARCH.png)
+![image](https://github.com/ShanKwanCho/690FinalProject/blob/master/Document%20Image/Screen%20Shot%202019-05-16%20at%202.20.37%20PM.png)
 
 ![image](https://github.com/ShanKwanCho/690FinalProject/blob/master/Document%20Image/Screen.png)
 
-![image](https://github.com/ShanKwanCho/690FinalProject/blob/master/Document%20Image/Screen1.png)
+![image](https://github.com/ShanKwanCho/690FinalProject/blob/master/Document%20Image/Screen%20Shot%202019-05-16%20at%202.20.46%20PM.png)
 
 Demo
 ![image](https://github.com/ShanKwanCho/690FinalProject/blob/master/Document%20Image/Screen%20Shot%202019-05-16%20at%202.40.52%20PM.png)
